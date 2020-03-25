@@ -1,0 +1,11 @@
+cirread tests.fraig/sim01.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+cirstrash
+cirsim -file tests.fraig/pattern.05
+cirp -fec
+usage
+q -f

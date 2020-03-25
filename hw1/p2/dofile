@@ -1,0 +1,15 @@
+test4.json
+MAX
+ADD tag1 222
+MIN
+MAX
+AVE
+SUM
+ADD tsskl -23
+SUM
+AVE
+PRINT
+ADD asd 23
+AVE
+PRINT
+EXIT

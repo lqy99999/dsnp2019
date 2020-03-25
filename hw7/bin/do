@@ -1,0 +1,7 @@
+taski 10
+taskn -r 10
+taskq -heap
+taska 100
+taskq -hash
+taskq -heap
+q -f

@@ -1,0 +1,12 @@
+cirr sim15.aag
+cirp -n
+cirg 15 -fanin 6
+cirg 14 -fanin 5
+cirg 13 -fanin 5
+cirg 1 -fanout 5
+cirg 2 -fanout 5
+cirg 3 -fanout 5
+cirg 4 -fanout 5
+cirg 5 -fanout 5
+cirg 0 -fanout 5
+q -f

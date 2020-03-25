@@ -1,0 +1,5 @@
+mtn -a 2 4
+mtp
+mtd -r 3 -a
+mtp
+q -f

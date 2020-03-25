@@ -1,0 +1,10 @@
+adt> adta -s jordan
+
+adt> adtp
+=== ADT (bst) ===
+[  0] = jorda   
+
+adt> adta -s jordano
+
+adt> adtp
+=== ADT (bst) ===

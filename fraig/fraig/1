@@ -1,0 +1,4 @@
+cirr -r tests.fraig/opt07.aag
+cirsweep
+cirp -n
+q -f

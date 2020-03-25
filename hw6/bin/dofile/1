@@ -1,0 +1,5 @@
+cirread tests.err/flt07.aag
+cirp -n
+cirp -fl
+usage
+q -f

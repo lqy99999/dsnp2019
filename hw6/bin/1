@@ -1,0 +1,5 @@
+cirread tests.fraig/opt01.aag
+cirp -n
+cirp -fl
+usage
+q -f

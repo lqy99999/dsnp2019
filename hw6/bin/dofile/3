@@ -1,0 +1,22 @@
+cirread tests.fraig/sim13.aag
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirwrite
+cirgate 33811 -fanin 15
+cirgate 44183 -fanin 16
+cirgate 72018 -fanin 16
+cirgate 87143 -fanin 17
+cirgate 8893 -fanin 12
+cirgate 78396 -fanin 11
+cirgate 38368 -fanin 6
+cirgate 47041 -fanin 17
+cirgate 86476 -fanin 17
+cirgate 78255 -fanin 18
+cirgate 36080 -fanin 12
+cirgate 40961 -fanin 16
+cirgate 39678 -fanin 13
+cirgate 38298 -fanin 6
+cirgate 18284 -fanin 5
+q -f

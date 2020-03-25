@@ -1,0 +1,13 @@
+cirread tests.fraig/sim13.aag
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirwrite
+cirgate 61259 -fanout 6
+cirgate 73059 -fanout 0
+cirgate 47703 -fanout 8
+cirgate 7724 -fanout 7
+cirgate 961 -fanout 6
+cirgate 39195 -fanout 2
+q -f

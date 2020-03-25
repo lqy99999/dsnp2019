@@ -1,0 +1,19 @@
+fraig> cirr -r tests.fraig/opt07.aag
+
+fraig> cirsweep
+Sweeping: AIG(5) removed...
+Sweeping: UNDEF(6) removed...
+Sweeping: AIG(7) removed...
+Sweeping: AIG(8) removed...
+Sweeping: AIG(9) removed...
+Sweeping: AIG(10) removed...
+
+fraig> cirp -n
+
+[0] PI  2
+[1] PI  3
+[2] AIG 4 2 3
+[3] PO  11 4
+
+fraig> q -f
+

@@ -1,0 +1,18 @@
+Please enter the file name: File "test4.json" was read in successfully.
+Enter command: Enter command: Enter command: The minimum element is: { "tag1" : 222 }.
+Enter command: The maximum element is: { "tag1" : 222 }.
+Enter command: The average of the values is: 222.0.
+Enter command: The summation of the values is: 222.
+Enter command: Enter command: The summation of the values is: 199.
+Enter command: The average of the values is: 99.5.
+Enter command: {
+  "tag1" : 222,
+  "tsskl" : -23
+}
+Enter command: Enter command: The average of the values is: 74.0.
+Enter command: {
+  "tag1" : 222,
+  "tsskl" : -23,
+  "asd" : 23
+}
+Enter command: 

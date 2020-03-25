@@ -1,0 +1,52 @@
+cirr tests.err/flt01.aag
+cirp -s
+cirp -n
+cirp -po
+cirp -pi
+cirp -float
+cirw
+cirr tests.err/flt02.aag -r
+cirp -s
+cirp -n
+cirp -po
+cirp -pi
+cirp -float
+cirw
+cirr tests.err/flt03.aag -r
+cirp -s
+cirp -n
+cirp -po
+cirp -pi
+cirp -float
+cirw
+cirr tests.err/flt04.aag -r
+cirp -s
+cirp -n
+cirp -po
+cirp -pi
+cirp -float
+cirw
+cirr tests.err/flt05.aag -r
+cirp -s
+cirp -n
+cirp -po
+cirp -pi
+cirp -float
+cirw
+cirr tests.err/flt06.aag -r
+cirp -s
+cirp -n
+cirp -po
+cirp -pi
+cirp -float
+cirw
+cirr tests.err/flt07.aag -r
+cirp -s
+cirp -n
+cirp -po
+cirp -pi
+cirp -float
+cirw
+q -f
+
+

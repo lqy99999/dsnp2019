@@ -1,0 +1,28 @@
+cirread tests.fraig/cirp-n.aag
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirwrite
+cirgate 16 -fanin 1
+cirgate 0 -fanin 16
+cirgate 6 -fanin 7
+cirgate 9 -fanin 6
+cirgate 12 -fanin 11
+cirgate 10 -fanin 5
+cirgate 6 -fanin 12
+cirgate 2 -fanin 13
+cirgate 1 -fanin 2
+cirgate 1 -fanin 4
+cirgate 0 -fanin 7
+cirgate 23 -fanin 12
+cirgate 22 -fanin 19
+cirgate 14 -fanin 14
+cirgate 24 -fanin 13
+cirgate 4 -fanin 0
+cirgate 11 -fanin 4
+cirgate 20 -fanin 7
+cirgate 12 -fanin 13
+cirgate 22 -fanin 19
+usage
+q -f
